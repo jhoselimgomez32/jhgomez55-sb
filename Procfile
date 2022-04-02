@@ -1,1 +1,1 @@
-web: java -jar build/libs/example-spring-gradle-0.0.1-SNAPSHOT.jar
+web: java -jar build/libs/jhgomez-sb-0.0.1-SNAPSHOT.jar
